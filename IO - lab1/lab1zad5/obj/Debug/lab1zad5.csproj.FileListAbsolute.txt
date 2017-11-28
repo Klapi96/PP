@@ -1,0 +1,6 @@
+C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\lab1zad5\bin\Debug\lab1zad5.exe.config
+C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\lab1zad5\bin\Debug\lab1zad5.exe
+C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\lab1zad5\bin\Debug\lab1zad5.pdb
+C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\lab1zad5\obj\Debug\lab1zad5.csprojResolveAssemblyReference.cache
+C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\lab1zad5\obj\Debug\lab1zad5.exe
+C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\lab1zad5\obj\Debug\lab1zad5.pdb
