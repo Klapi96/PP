@@ -1,0 +1,7 @@
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab3zad12\bin\Debug\lab3zad12.exe.config
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab3zad12\bin\Debug\lab3zad12.exe
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab3zad12\bin\Debug\lab3zad12.pdb
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab3zad12\obj\Debug\lab3zad12.csprojResolveAssemblyReference.cache
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab3zad12\obj\Debug\lab3zad12.csproj.CoreCompileInputs.cache
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab3zad12\obj\Debug\lab3zad12.exe
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab3zad12\obj\Debug\lab3zad12.pdb

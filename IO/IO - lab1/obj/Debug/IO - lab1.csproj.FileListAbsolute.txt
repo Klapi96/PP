@@ -4,3 +4,10 @@ C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania
 C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\IO - lab1\obj\Debug\IO - lab1.csprojResolveAssemblyReference.cache
 C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\IO - lab1\obj\Debug\IO - lab1.exe
 C:\Users\aaa\Desktop\POLITECHNIKA POZNANSKA\semestr 5\Inżynieria Oprogramowania\IO - lab1\IO - lab1\obj\Debug\IO - lab1.pdb
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\IO - lab1\bin\Debug\IO - lab1.exe.config
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\IO - lab1\bin\Debug\IO - lab1.exe
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\IO - lab1\bin\Debug\IO - lab1.pdb
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\IO - lab1\obj\Debug\IO - lab1.csprojResolveAssemblyReference.cache
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\IO - lab1\obj\Debug\IO - lab1.csproj.CoreCompileInputs.cache
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\IO - lab1\obj\Debug\IO - lab1.exe
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\IO - lab1\obj\Debug\IO - lab1.pdb
