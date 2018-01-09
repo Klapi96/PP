@@ -1,0 +1,7 @@
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab2zad8\bin\Debug\lab2zad8.exe.config
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab2zad8\bin\Debug\lab2zad8.exe
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab2zad8\bin\Debug\lab2zad8.pdb
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab2zad8\obj\Debug\lab2zad8.csprojResolveAssemblyReference.cache
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab2zad8\obj\Debug\lab2zad8.csproj.CoreCompileInputs.cache
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab2zad8\obj\Debug\lab2zad8.exe
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\lab2zad8\obj\Debug\lab2zad8.pdb

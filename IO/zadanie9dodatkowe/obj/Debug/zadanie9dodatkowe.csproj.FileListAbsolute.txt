@@ -1,0 +1,7 @@
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\zadanie9dodatkowe\bin\Debug\zadanie9dodatkowe.exe.config
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\zadanie9dodatkowe\bin\Debug\zadanie9dodatkowe.exe
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\zadanie9dodatkowe\bin\Debug\zadanie9dodatkowe.pdb
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\zadanie9dodatkowe\obj\Debug\zadanie9dodatkowe.csprojResolveAssemblyReference.cache
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\zadanie9dodatkowe\obj\Debug\zadanie9dodatkowe.csproj.CoreCompileInputs.cache
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\zadanie9dodatkowe\obj\Debug\zadanie9dodatkowe.exe
+D:\Politechnika\semestr 5\Inżynieria Oprogramowania\PP\IO\zadanie9dodatkowe\obj\Debug\zadanie9dodatkowe.pdb
